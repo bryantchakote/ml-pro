@@ -172,7 +172,7 @@ WHERE E2.DateRetourEffective IS NULL;
 
 
 -- 9. Nombre de livres par genre
--- Écrivez une requête qui utilise une jointure pour afficher le nombre de 
+-- Écrivez une requête qui utilise une jointure pour afficher le nombre de
 -- livres par genre. Le résultat doit montrer le nom du genre et le nombre de
 -- livres associés.
 SELECT G.NomGenre, COUNT(*) AS NombreLivres
@@ -256,10 +256,10 @@ WHERE LivreID NOT IN (
 -- Écrivez une requête SQL pour afficher le nombre total d'emprunteurs pour
 -- chaque auteur. Le résultat doit inclure les auteurs dont aucun livre n'a été
 -- emprunté.
-SELECT A.Nom, A.Prenom, COUNT(DISTINCT E.EmprunteurID) AS NombreEmprunteurs
+SELECT A.Nom, A.Prénom, COUNT(DISTINCT E.EmprunteurID) AS NombreEmprunteurs
 FROM Emprunts E
 JOIN Livres L
 ON E.LivreID = L.LivreID
 RIGHT JOIN Auteurs A
 ON L.AuteurID = A.AuteurID
-GROUP BY A.AuteurID 
+GROUP BY A.AuteurID;
