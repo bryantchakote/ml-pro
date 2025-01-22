@@ -1,2 +1,4 @@
 notes.ipynb
 stuff
+__pycache__
+*.db
