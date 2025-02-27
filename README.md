@@ -32,6 +32,11 @@
 <summary><b>1.X Programme d'entraînement Python</b></summary>
 
 - Voyageur de commerce
+- La POO avec Python
+- La recherche dichotomique
+- Les algorithmes de tri
+- Les décorateurs
+- Les générateurs
 
 </details>
 
@@ -40,7 +45,7 @@
 <details>
 <summary><b>2.1 Les matématiques de l'IA</b></summary>
 
-- Introduction : algèbre linéaire,  statistiques et probabilités, analyse, nombres complexes
+- Introduction : algèbre linéaire, statistiques et probabilités, analyse, nombres complexes
 
 </details>
 
