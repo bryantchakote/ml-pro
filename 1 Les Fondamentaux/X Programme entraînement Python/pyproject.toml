@@ -1,16 +1,18 @@
 [project]
-name = "python-training"
+name = "programme-entrainement-python"
 version = "0.1.0"
 description = ""
 authors = [
     {name = "Bryan Tchakote",email = "tchakomanuel@gmail.com"}
 ]
 readme = "README.md"
-requires-python = "^3.12"
+requires-python = "^3.13"
 dependencies = [
     "ipykernel (>=6.29.5,<7.0.0)",
     "numpy (>=2.2.3,<3.0.0)",
-    "matplotlib (>=3.10.0,<4.0.0)"
+    "pandas (>=2.2.3,<3.0.0)",
+    "matplotlib (>=3.10.0,<4.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)"
 ]
 
 
