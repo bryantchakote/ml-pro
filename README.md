@@ -18,13 +18,28 @@
 <details>
 <summary><b>1.2 Prise en main de votre machine</b></summary>
 
+- CPU, RAM, GPU, disque dur, carte-mère
 - Terminal, PATH, commandes Unix/Windows, VIM, Oh-my-zsh
 - Python et environnements virtuels (pip, conda, venv, pyenv, poetry)
 - IDE (VSCode, Pycharm) : workspaces, extensions, paramètres, debogage
-- 1.3 SQL
+
+</details>
+
+<summary><b>1.3 SQL</b></summary>
 - BDD et SGBD
 - Langage SQL : commandes CRUD, calculs, jointures
+- SQL avancé
 - Projet : [application de flashcards](https://github.com/bryantchakote/flashcards)
+
+</details>
+
+</details>
+
+<summary><b>1.4 Les frameworks de Data Science</b></summary>
+- NumPy, Pandas, SciPy
+- Matplotlib, Seaborn
+- Scikit-Learn, PyTorch, Keras
+- Streamlit
 
 </details>
 
@@ -46,6 +61,16 @@
 <summary><b>2.1 Les matématiques de l'IA</b></summary>
 
 - Introduction : algèbre linéaire, statistiques et probabilités, analyse, nombres complexes
+
+</details>
+
+<details>
+<summary><b>2.2 Algèbre linéaire</b></summary>
+
+- Théorie des ensembles
+- Vecteurs, matrices, espaces vectoriels
+- Applications linéaires, déterminant, inverse d'une matrice
+- Eléments propres, diagonalisation, décomposition en valeurs singulières (SVD)
 
 </details>
 
