@@ -27,6 +27,7 @@
 
 <details>
 <summary><b>1.3 SQL</b></summary>
+
 - BDD et SGBD
 - Langage SQL : commandes CRUD, calculs, jointures
 - SQL avancé
@@ -36,6 +37,7 @@
 
 <details>
 <summary><b>1.4 Les frameworks de Data Science</b></summary>
+
 - NumPy, Pandas, SciPy
 - Matplotlib, Seaborn
 - Scikit-Learn, PyTorch, Keras
