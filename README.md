@@ -77,6 +77,15 @@
 </details>
 
 <details>
+<summary><b>2.3 Analyse</b></summary>
+
+- Fonctions, dérivées, intégrales
+- Suites, séries, récurrence
+- Distances
+
+</details>
+
+<details>
 <summary><b>2.X Prise en main de Manim</b></summary>
 
 - Installation, objets, texte, transformations, animations, groupes (VGroup), fonctions (2D et 3D)
