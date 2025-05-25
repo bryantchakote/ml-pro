@@ -94,6 +94,16 @@
 
 ## 3️⃣ **Algorithmes de Machine Learning** 🤖
 
+<details>
+<summary><b>3.1 Les modèles linéaires</b></summary>
+
+- Introduction : Qu'est-ce qu'un modèle linéaire ?
+- Régression linéaire : moindres carrés, descente de gradient, équations normales, régression multiple, régression polynomiale, modèles régularisés
+- Classification linéaire : régression logistique
+- Modèles avancés : LARS
+
+</details>
+
 ## 4️⃣ **Algorithmes de Deep Learning** 🧠
 
 ## 5️⃣ **Méthodologie et gestion de projet** 📅
